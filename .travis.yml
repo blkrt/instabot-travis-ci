@@ -6,4 +6,4 @@ python:
 install: 
   - pip install -r requirements.txt
 script:
-  - python unfollow.py
+  - python unfollow-non-followers.py
